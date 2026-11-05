@@ -1,0 +1,61 @@
+# Percurso GTK — Orbitz Workspace
+
+53 telas/estados; erros capturados: 0.
+
+Dados fictícios e sessão gráfica isolada. Ver limites em [validação](../../validation.md).
+
+| Tela/estado | Captura |
+| --- | --- |
+| empty-today | [PNG](empty-today.png) |
+| empty-events | [PNG](empty-events.png) |
+| empty-tasks | [PNG](empty-tasks.png) |
+| empty-hours | [PNG](empty-hours.png) |
+| empty-invoices | [PNG](empty-invoices.png) |
+| task-create | [PNG](task-create.png) |
+| task-edit | [PNG](task-edit.png) |
+| sheet-create | [PNG](sheet-create.png) |
+| sheet-context | [PNG](sheet-context.png) |
+| hours-day | [PNG](hours-day.png) |
+| hours-week | [PNG](hours-week.png) |
+| hours-month | [PNG](hours-month.png) |
+| timer-start | [PNG](timer-start.png) |
+| task-register-hours | [PNG](task-register-hours.png) |
+| task-linked-records | [PNG](task-linked-records.png) |
+| tasks-populated | [PNG](tasks-populated.png) |
+| csv-period | [PNG](csv-period.png) |
+| csv-save | [PNG](csv-save.png) |
+| calendar-cached-event | [PNG](calendar-cached-event.png) |
+| calendar-import-task | [PNG](calendar-import-task.png) |
+| invoice-form | [PNG](invoice-form.png) |
+| invoice-preview | [PNG](invoice-preview.png) |
+| invoice-save | [PNG](invoice-save.png) |
+| invoices-history | [PNG](invoices-history.png) |
+| invoice-payment | [PNG](invoice-payment.png) |
+| invoice-paid | [PNG](invoice-paid.png) |
+| invoice-versions | [PNG](invoice-versions.png) |
+| invoice-import-signed | [PNG](invoice-import-signed.png) |
+| invoice-sign | [PNG](invoice-sign.png) |
+| connect-icloud | [PNG](connect-icloud.png) |
+| connect-google | [PNG](connect-google.png) |
+| connect-calendly | [PNG](connect-calendly.png) |
+| connect-ics | [PNG](connect-ics.png) |
+| manage-connections | [PNG](manage-connections.png) |
+| preferences | [PNG](preferences.png) |
+| today-english | [PNG](today-english.png) |
+| backup-export-confirm | [PNG](backup-export-confirm.png) |
+| backup-export-save | [PNG](backup-export-save.png) |
+| backup-restore-file | [PNG](backup-restore-file.png) |
+| backup-restore-preview | [PNG](backup-restore-preview.png) |
+| backup-restore-choose | [PNG](backup-restore-choose.png) |
+| backup-legacy | [PNG](backup-legacy.png) |
+| sheet-archive-confirm | [PNG](sheet-archive-confirm.png) |
+| sheet-archive-list | [PNG](sheet-archive-list.png) |
+| invoice-delete-confirm | [PNG](invoice-delete-confirm.png) |
+| sheet-archive-view | [PNG](sheet-archive-view.png) |
+| final-today | [PNG](final-today.png) |
+| final-events | [PNG](final-events.png) |
+| final-hours | [PNG](final-hours.png) |
+| final-invoices | [PNG](final-invoices.png) |
+| backup-restore-apply-file | [PNG](backup-restore-apply-file.png) |
+| backup-restore-apply-confirm | [PNG](backup-restore-apply-confirm.png) |
+| backup-restore-result | [PNG](backup-restore-result.png) |

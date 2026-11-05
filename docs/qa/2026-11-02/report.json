@@ -1,0 +1,301 @@
+{
+  "application": "Orbitz Workspace",
+  "screens": [
+    {
+      "screen": "empty-today",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "empty-events",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "empty-tasks",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "empty-hours",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "empty-invoices",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "task-create",
+      "size": [
+        502,
+        464
+      ]
+    },
+    {
+      "screen": "task-edit",
+      "size": [
+        502,
+        464
+      ]
+    },
+    {
+      "screen": "sheet-create",
+      "size": [
+        592,
+        644
+      ]
+    },
+    {
+      "screen": "sheet-context",
+      "size": [
+        592,
+        644
+      ]
+    },
+    {
+      "screen": "hours-day",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "hours-week",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "hours-month",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "timer-start",
+      "size": [
+        472,
+        269
+      ]
+    },
+    {
+      "screen": "task-register-hours",
+      "size": [
+        552,
+        372
+      ]
+    },
+    {
+      "screen": "task-linked-records",
+      "size": [
+        492,
+        349
+      ]
+    },
+    {
+      "screen": "tasks-populated",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "invoice-form",
+      "size": [
+        472,
+        369
+      ]
+    },
+    {
+      "screen": "invoice-preview",
+      "size": [
+        472,
+        369
+      ]
+    },
+    {
+      "screen": "invoices-history",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "invoice-payment",
+      "size": [
+        540,
+        230
+      ]
+    },
+    {
+      "screen": "invoice-paid",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "invoice-versions",
+      "size": [
+        452,
+        425
+      ]
+    },
+    {
+      "screen": "invoice-import-signed",
+      "size": [
+        1148,
+        911
+      ]
+    },
+    {
+      "screen": "invoice-sign",
+      "size": [
+        540,
+        769
+      ]
+    },
+    {
+      "screen": "connect-icloud",
+      "size": [
+        562,
+        515
+      ]
+    },
+    {
+      "screen": "connect-google",
+      "size": [
+        612,
+        417
+      ]
+    },
+    {
+      "screen": "connect-calendly",
+      "size": [
+        612,
+        449
+      ]
+    },
+    {
+      "screen": "connect-ics",
+      "size": [
+        612,
+        329
+      ]
+    },
+    {
+      "screen": "manage-connections",
+      "size": [
+        592,
+        702
+      ]
+    },
+    {
+      "screen": "preferences",
+      "size": [
+        512,
+        349
+      ]
+    },
+    {
+      "screen": "today-english",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "backup-export-confirm",
+      "size": [
+        540,
+        697
+      ]
+    },
+    {
+      "screen": "backup-restore-choose",
+      "size": [
+        1148,
+        911
+      ]
+    },
+    {
+      "screen": "backup-legacy",
+      "size": [
+        772,
+        609
+      ]
+    },
+    {
+      "screen": "sheet-archive-confirm",
+      "size": [
+        540,
+        525
+      ]
+    },
+    {
+      "screen": "sheet-archive-list",
+      "size": [
+        612,
+        449
+      ]
+    },
+    {
+      "screen": "invoice-delete-confirm",
+      "size": [
+        540,
+        663
+      ]
+    },
+    {
+      "screen": "sheet-archive-view",
+      "size": [
+        1102,
+        739
+      ]
+    },
+    {
+      "screen": "final-today",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "final-events",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "final-hours",
+      "size": [
+        1152,
+        1089
+      ]
+    },
+    {
+      "screen": "final-invoices",
+      "size": [
+        1152,
+        1089
+      ]
+    }
+  ],
+  "errors": [],
+  "scope": "Real GTK widgets with temporary local data; network and external services excluded."
+}

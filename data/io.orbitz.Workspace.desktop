@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Name=Orbitz Workspace
+Comment=Calendar, tasks, time tracking and service invoices
+Comment[pt_BR]=Calendário, tarefas, controle de horas e faturas de serviços
+Exec=orbitz-workspace
+Icon=io.orbitz.Workspace
+Terminal=false
+Categories=Office;Calendar;ProjectManagement;
+StartupWMClass=io.orbitz.Workspace
+StartupNotify=true
+Actions=Preferences;
+
+[Desktop Action Preferences]
+Name=Preferences
+Name[pt_BR]=Preferências
+Exec=orbitz-workspace --preferences

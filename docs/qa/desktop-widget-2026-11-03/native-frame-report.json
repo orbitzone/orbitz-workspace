@@ -1,0 +1,12 @@
+{
+  "scale": 1.2,
+  "size": [
+    528,
+    492
+  ],
+  "handles": 8,
+  "no_modal": true,
+  "rounded_frame": true,
+  "menu_provider_removed": true,
+  "native_drag": true
+}

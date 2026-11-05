@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+/dist/
+/build/
+.env
+client_secret*.json
+credentials.json
+google-client.json
+external-calendars.json
+notes.json
+planner-ui.json
+invoice-profiles.json
+*.backup-*

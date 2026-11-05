@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+"""Launch the checkout or the installed application without the Widgets project."""
+import os
+from pathlib import Path
+import sys
+script = Path(__file__).resolve()
+root = script.parents[1]
+if not (root / 'app/calendar-app.py').is_file():
+    root = script.parents[1] / 'share/orbitz-workspace'
+entry = root / ('app/desktop_widget.py' if '--desktop-widget' in sys.argv else 'app/calendar-app.py')
+os.execv(sys.executable, [sys.executable, str(entry), *sys.argv[1:]])

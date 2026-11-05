@@ -1,0 +1,11 @@
+{
+  "backend": "X11Display",
+  "position": [
+    100,
+    100
+  ],
+  "properties": "_NET_WM_WINDOW_TYPE(ATOM) = _NET_WM_WINDOW_TYPE_NORMAL\n_NET_WM_STATE(ATOM) = _NET_WM_STATE_SKIP_PAGER, _NET_WM_STATE_SKIP_TASKBAR, _NET_WM_STATE_STICKY\n",
+  "hover_shortcuts": true,
+  "standalone": true,
+  "no_network": true
+}
