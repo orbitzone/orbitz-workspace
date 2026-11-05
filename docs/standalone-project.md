@@ -2,9 +2,11 @@
 
 Repository: https://github.com/orbitzone/orbitz-workspace
 
-Current development checkout: `/home/felipe/Documents/ChatGPT/orbitz-workspace`.
-The older local path `Calendars, timesheets and invoices` points to this checkout.
-The Workspace is not located under the Widgets for GNOME `projects/` directory.
+Current development checkout: `/home/felipe/Documents/Codex/projects/orbitz-workspace`.
+Compatibility links at `/home/felipe/Documents/ChatGPT/orbitz-workspace` and
+`/home/felipe/Documents/ChatGPT/Calendars, timesheets and invoices` point here.
+Workspace and Widgets for GNOME are sibling repositories under `projects/`,
+not nested checkouts.
 
 ## Source of truth
 
